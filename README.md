@@ -11,4 +11,6 @@
 - 🌐 Social links (Facebook, Twitter/X, Instagram)
 - 📱 Fully responsive for all devices
 - 🎨 Clean and modern UI with dark theme aesthetics
+
+- --------------------
 🔗 Live Demo: [itz-hurairah18.netlify.app](https://itz-hurairah18.netlify.app)
